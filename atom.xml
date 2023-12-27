@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dding&#39;s Blog</title>
+  
+  <subtitle>share blog</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-12-27T02:36:23.208Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>wm ding</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ddddd</title>
+    <link href="http://example.com/2023/12/27/test-20231227/"/>
+    <id>http://example.com/2023/12/27/test-20231227/</id>
+    <published>2023-12-27T01:35:09.000Z</published>
+    <updated>2023-12-27T02:36:23.208Z</updated>
+    
+    <content type="html"><![CDATA[<p>这里是文章的概览，显示在主页缩略内容上面</p><span id="more"></span><p>这里是自动生成的文章目录</p><!-- toc --><blockquote><p>CSDN的发布流程烂到家了，只能自己动手搭建技术博客</p></blockquote><h1 id="这是大标题"><a href="#这是大标题" class="headerlink" title="这是大标题"></a>这是大标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;这里是文章的概览，显示在主页缩略内容上面&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Java" scheme="http://example.com/tags/Java/"/>
+    
+    <category term="Spring" scheme="http://example.com/tags/Spring/"/>
+    
+  </entry>
+  
+</feed>
